@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/adminMainListGrocerySelector"
+        android:title="List Grocery"
+        android:icon="@drawable/baseline_list_24"></item>
+
+    <item android:id="@+id/adminMainAddGrocerySelector"
+        android:title="Add Grocery"
+        android:icon="@drawable/baseline_add_circle_24"></item>
+
+</menu>
